@@ -1,0 +1,5 @@
+name: TelegramMonitor
+version: 1.0
+main: me.mohapre.Main
+api-version: 1.13
+
